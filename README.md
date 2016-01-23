@@ -10,7 +10,7 @@ Run the tool using the following command:
 
 ## Input format
 
-The format of each pickle file is as follows:
+We generate a pickle file for each article. The format of each pickle file is as follows:
 
 	{
 		sentences 	: 	<LIST OF SENTENCES>,
@@ -20,7 +20,7 @@ The format of each pickle file is as follows:
 
 ## Output format
 
-The columns are labeled as follows:
+The columns of the output csv are as follows:
 
 title | link | selection | target 
 --- | --- | --- | ---
