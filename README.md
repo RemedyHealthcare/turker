@@ -2,6 +2,12 @@
 
 Toolkit to convert cpickle files of articles with sentences to turk csv files.
 
+## Usage
+
+Run the tool using the following command:
+
+	python gen_input.py <PATH_TO_DATA> <PATH_TO_OUTPUT_CSV_FILE>
+
 ## Input format
 
 The format of each pickle file is as follows:
